@@ -1,1 +1,1 @@
-
+Manually interpret and annotate based on the high-resolution optical images of Planet obtained on April 1, 2022. During the annotation process, select flood pixels and non flooded pixels with clear inundation characteristics, and try to avoid flood boundaries, cloud shadows, and mixed pixels as much as possible. There are a total of 115 valid samples in the Australian research area, including 58 flood samples and 57 non flood samples, accounting for 50.43% and 49.57% respectively.
